@@ -13,7 +13,9 @@
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные из [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+В качестве тестовых данных использовались данные из ]Инструкции по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) и [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+
+Тестовые данные:
 
 Валидные ключи:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
