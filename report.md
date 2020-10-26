@@ -7,9 +7,8 @@
 На тестирование затрачено: 45 минут.
 
 В результате тестирования выявлены следующие дефекты:
-* [При вводе валидного ключа, выводится результат FAIL](https://github.com/mlleila/KeyValidator/issues/1#issue-729478058)
-* [При вводе невалидного ключа, выводится результат OK](https://github.com/mlleila/KeyValidator/issues/3#issue-729484428)
-* [При вводе валидного ключа, выводится результат FAIL](https://github.com/mlleila/KeyValidator/issues/2#issue-729482152)
+* [При вводе валидного ключа, выводится результат FAIL](https://github.com/mlleila/KeyValidator/issues/1)
+* [При вводе невалидного ключа, выводится результат OK](https://github.com/mlleila/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
